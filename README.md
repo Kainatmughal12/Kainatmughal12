@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Kainat%20Mughal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:8360c3,100:2ebf91&height=300&section=header&text=Hi%20👋,%20I'm%20Kainat%20Mughal&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Fintech%20Data%20Analyst%20%7C%20AI%2FML%20%26%20Predictive%20Analytics&descAlignY=58&descSize=20)
 
 <!-- Typing effect -->
 <p align="center">
@@ -36,16 +36,67 @@
 
 ### 🛠️ Tech Stack & Tools
 
+**Languages**
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**Web Development**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+</p>
+
+**AI / ML / Data Science**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-5C2D91?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML_Forecasting-6C63FF?style=flat-square&logo=googleanalytics&logoColor=white" />
+</p>
+
+**Databases**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+**Data & Business Tools**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Warehousing-0078D4?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Analysis-2E8B57?style=flat-square&logo=googlesheets&logoColor=white" />
+</p>
+
+**Fintech & Risk**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Financial_Modelling-1E3A8A?style=flat-square&logo=investing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Valuation-B8860B?style=flat-square&logo=coinmarketcap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fraud_Detection-DC143C?style=flat-square&logo=shieldsdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk_Management-8B0000?style=flat-square&logo=protonvpn&logoColor=white" />
+</p>
+
+**Tools**
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -59,6 +110,40 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kainatmughal12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kainatmughal12/Kainatmughal12/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> ⚠️ This one needs a tiny one-time setup — instructions are in the guide below.
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kainatmughal12&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kainatmughal12&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -86,4 +171,4 @@
 </p>
 
 <!-- Footer wave -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:8360c3,100:2ebf91&height=120&section=footer)
