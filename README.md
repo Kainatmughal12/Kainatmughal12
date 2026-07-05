@@ -120,8 +120,6 @@
   <img src="https://raw.githubusercontent.com/Kainatmughal12/Kainatmughal12/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-> ⚠️ This one needs a tiny one-time setup — instructions are in the guide below.
-
 ---
 
 ### 📈 Contribution Activity
