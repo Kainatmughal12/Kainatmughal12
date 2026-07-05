@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:8360c3,100:2ebf91&height=300&section=header&text=Hi%20👋,%20I'm%20Kainat%20Mughal&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Fintech%20Data%20Analyst%20%7C%20AI%2FML%20%26%20Predictive%20Analytics&descAlignY=58&descSize=20)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:8360c3,100:2ebf91&height=300&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Kainat%20Mughal&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Fintech%20Data%20Analyst%20-%20AI%20ML%20and%20Predictive%20Analytics&descAlignY=58&descSize=20)
 
 <!-- Typing effect -->
 <p align="center">
@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Completed a **BS in Financial Technology** at **FAST-NUCES**, Islamabad
+- 🎓 Pursuing a **BS in Financial Technology** at **FAST-NUCES**, Islamabad
 - 📊 Passionate about turning raw data into **actionable business insights**
 - 🧠 Interested in **Machine Learning, Predictive Analytics & Fintech**
 - 💻 Currently working as a **Laboratory Demonstrator** guiding ML lab sessions
