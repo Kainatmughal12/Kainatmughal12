@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing a **BS in Financial Technology** at **FAST-NUCES**, Islamabad
+- 🎓 Completed a **BS in Financial Technology** at **FAST-NUCES**, Islamabad
 - 📊 Passionate about turning raw data into **actionable business insights**
 - 🧠 Interested in **Machine Learning, Predictive Analytics & Fintech**
 - 💻 Currently working as a **Laboratory Demonstrator** guiding ML lab sessions
