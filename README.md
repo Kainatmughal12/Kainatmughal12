@@ -148,16 +148,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-> Pin your best 4–6 repos on your profile so they show up here automatically — I've left this section as a placeholder guide:
-
-- **[Project Name](https://github.com/Kainatmughal12)** — one-line description of what it does and tech used
-- **[Project Name](https://github.com/Kainatmughal12)** — one-line description of what it does and tech used
-- **[Project Name](https://github.com/Kainatmughal12)** — one-line description of what it does and tech used
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
